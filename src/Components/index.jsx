@@ -20,7 +20,7 @@ export default function Components() {
     return (
 
         <S.Container>
-            <S.Title>Hogwarts Legacy</S.Title>
+            <S.Title id='topo'>Hogwarts Legacy</S.Title>
 
             <S.Personagem>
                 {personagens.map((item, index) => (
@@ -44,7 +44,7 @@ export default function Components() {
             <S.Rodape>
                 <p>&copy; Desenvolvido pela aluna Adriana Gutierrez</p>
                 <p>Vai Na Web</p>
-                <a href="#"><S.Varinha src={Varinha} alt="Varinha"/></a>
+                <a href="#topo"><S.Varinha src={Varinha} alt="Varinha"/></a>
                 <p>Up!</p>
             </S.Rodape>
         </S.Container>

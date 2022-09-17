@@ -11,7 +11,7 @@ export const Container = styled.section`
     align-items: center;
 `
 export const Title = styled.h1`
-    width: 50%;
+    width: 70%;
     text-align: center;
     color: black;
     text-shadow: 5px 5px 10px #eeba30;
@@ -28,11 +28,11 @@ export const Title = styled.h1`
     }
 
     @media only screen and (min-width: 360px) and (max-width: 800px){
-        font-size: 3.5rem;
+        font-size: 2.3rem;
     }
 
     @media only screen and (min-width: 412px) and (max-width: 780px){
-        font-size: 3.5rem;
+        font-size: 2.3rem;
     }
 `
 
