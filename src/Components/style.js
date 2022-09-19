@@ -101,7 +101,7 @@ export const About = styled.div`
     
     p{
     color: white;
-    font-family: 'Hello Billy', sans-serif;     
+    font-family: 'Henny Penny', cursive;
     font-size: 1.5rem;
     padding: 5px;
     }
