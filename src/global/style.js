@@ -6,6 +6,6 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    font-family: 'Henny Penny', cursive;
+    font-family: 'Harry Potter', sans-serif;
 }
 `
