@@ -101,7 +101,8 @@ export const About = styled.div`
     
     p{
     color: white;
-    font-size: 1.5rem;
+    font-family: 'Henny Penny', cursive;
+    font-size: 1.2rem;
     padding: 5px;
     }
 `
