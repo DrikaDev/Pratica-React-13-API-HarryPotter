@@ -6,7 +6,7 @@ import * as S from "./style"
 
 export default function Components() {
 
-    let Api = "http://hp-api.herokuapp.com/api/characters"
+    let Api = "https://hp-api.herokuapp.com/api/characters"
 
     const [personagens, setPersonagens] = useState([])
 
